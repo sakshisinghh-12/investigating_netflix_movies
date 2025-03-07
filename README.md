@@ -5,9 +5,13 @@ This project analyzes Netflix's dataset to uncover trends, insights, and pattern
 
 # Objective:
 -To analyze the distribution of movies and TV shows on Netflix. 
+
 -To examine content addition trends over time. 
+
 -To identify the most popular genres and countries producing content. 
+
 -To analyze content ratings and movie durations. 
+
 -To create interactive and visual representations of the findings.
 
 # Dataset: 
